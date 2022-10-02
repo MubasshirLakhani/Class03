@@ -1,1 +1,9 @@
-
+void main() {
+ int num1=42;
+ if(num1 % 2 == 0){
+   print('$num1 is Odd Number');
+ }
+  else{
+    print('$num1 is Even Number');
+  }
+}
